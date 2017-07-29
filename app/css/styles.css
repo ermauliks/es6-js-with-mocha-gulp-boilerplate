@@ -1,0 +1,10 @@
+body {
+  background: #111;
+  color: #ccc;
+  font-family: arial;
+  font-size: 16px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-shadow: 1px 1px 1px rgba(1, 1, 1, 0.5);
+  box-shadow: 1px 1px 1px rgba(1, 1, 1, 0.5); }
