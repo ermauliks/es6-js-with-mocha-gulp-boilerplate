@@ -1,0 +1,25 @@
+{
+  "name": "es6-js-with-mocha-gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for JS project. It also includes Mocha for testing, Babel for ES6 transpiling and Gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ermauliks/es6-js-with-mocha-gulp-boilerplate.git"
+  },
+  "keywords": [
+    "js",
+    "es6",
+    "babel",
+    "javascript"
+  ],
+  "author": "Maulik Suchak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ermauliks/es6-js-with-mocha-gulp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ermauliks/es6-js-with-mocha-gulp-boilerplate#readme"
+}
